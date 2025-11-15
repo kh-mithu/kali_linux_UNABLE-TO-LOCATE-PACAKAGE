@@ -1,1 +1,8 @@
+1st step find the source.list and save a backup of this file.
+location: /etc/apt/sources.list.
+edit: sudo nano /etc/apt/sources.list.
+remove everything and the main-file link.
+after that put the public key command.
+new terminal and put the command sudo apt update and sudo apt upgrade.
+now you can install any software.
 
